@@ -1,4 +1,4 @@
-# Le-plus-gros-produit-d-une-matrice
+# Le plus grand produit d'une matrice 
 Implémentation du "11th euler problem"
 
 Le 11ème problème d'Euler est un problème de mathématiques algorithmiques qui consiste à trouver le plus grand produit de 4 nombres adjacents 
